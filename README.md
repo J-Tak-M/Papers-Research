@@ -4,4 +4,4 @@ This repository contains papers and research I have done on various subjects. Th
 **Current List**
 
 - Disinformation & Propaganda
-- Hybrid Warfare
+- Hybrid Warfare Research
