@@ -57,12 +57,12 @@ In the video below you will see a deep fake of former president Barrack Obama. (
 
 **Mitigation Methods**
 Disinformation is interesting in that there are not a ton of ways to combat it, nor are any of them as quick as applying an update to a computer. The only true way to combat disinformation is through educating the masses on how to spot disinformation, even then some information can slip through the cracks and propagate. Some of the best ways to spot disinformation, misinformation, and mal-information are:
--	Checking the source of the information
-  -	Look at the sources of information, who has published it, who shared it, what are their sources, where is it coming from? On social media such as Twitter, Facebook, or Instagram, check the account’s username, if it has a lot of random letters and numbers, it could be a bot. If the content you are looking is coming from an unverified account posting content hundreds of times a day, that could be a bot.
--	Check where the story is coming from and who is posting it.
-  -	Usually real news is covered by more than one news source. If mainstream media are not posting about the story, it could be fake, or it cannot be confirmed. By performing a Google search, you might find that independent fact-checkers have already debunked the story.
--	Make sure you are not playing into your biases.
-  - People are much less likely to identify disinformation if it aligns with their own biases. Before posting content, think about why you are doing so. Is because you know it’s true or just because it fits with your ideas?
+ 1. Checking the source of the information
+    -	Look at the sources of information, who has published it, who shared it, what are their sources, where is it coming from? On social media such as Twitter, Facebook, or Instagram, check the account’s username, if it has a lot of random letters and numbers, it could be a bot. If the content you are looking is coming from an unverified account posting content hundreds of times a day, that could be a bot.
+ 2. Check where the story is coming from and who is posting it.
+    -	Usually real news is covered by more than one news source. If mainstream media are not posting about the story, it could be fake, or it cannot be confirmed. By performing a Google search, you might find that independent fact-checkers have already debunked the story.
+ 3. Make sure you are not playing into your biases.
+    - People are much less likely to identify disinformation if it aligns with their own biases. Before posting content, think about why you are doing so. Is because you know it’s true or just because it fits with your ideas?
 
 
 
