@@ -2,14 +2,8 @@
  
  *Research into Hybrid Warfare*	  
  
-
-
-
-
-
-
-
 **Index **
+
  - Introduction	24
  - Breakdown	33
  - Examples	41
@@ -32,8 +26,11 @@ Then the Chinese military and government do not have a current definition for hy
 
 **Breakdown**
 Hybrid warfare and hybrid threats present a huge threat that has not been dealt with by very many nations and is extremely hard to combat. Many factors in hybrid warfare present the same problems as many of forms of warfare outside of traditional kinetic warfare, a standard army cannot effectively combat or many times even see things like economic warfare or lawfare happening right in front of their eyes, mainly because that is out of the scope of their responsibilities. Economic warfare for example cannot be fought off with overwhelming military force, if you inflate or deflate the U.S. dollar by a certain percentage, you might not be able to effect the U.S. in any meaningful way, but you could crash the economy of a small country such as Guatemala, and this would be extremely hard to see and combat as or before it happens. Another large problem presented by this type of warfare is attribution, if you cannot figure out who your enemy is, it makes it a lot harder to fight them. For example, in October of 2019, articles started appearing that hard titles such as, “Russian Hacker Group Disguises Self as Iranian Hacker Group,” it turns out that the Russian attributed hacker group known as Turla, hacked an Iranian-sponsored hacker group known as OilRig. Turla then used OilRig’s servers, tools, and behavior to masquerade as them while carrying out various cyber operations. (Gatlan, 2019) 
+		
 		Though large terrorist and criminal organizations such as Daesh, Al-Qaeda, Solntsevskaya Bratva, or the Russian Business Network can conduct hybrid warfare in a more limited manner, it will be more common with the resources at the disposal of nation states. With the seemingly draw done of the wars in the Middle East, and the possibility of a regional conflict between nations such as China and Taiwan or Saudi Arabia, Israel and Iran growing larger, hybrid warfare, or as Russia refers to it as new generation warfare looks like more like reality. The Mobilizing Insights in Defense and Strategy Challenges for 2020-2021 lists hybrid warfare and threats as one of the challenges the Department of National Defence faces and states that:
+		
 		“We are seeing a resurgence of strategic competition between states, which is unfolding daily through coordinated hostile activities across all spheres of state power (i.e., diplomatic, economic, information, military) that are deliberately crafted to fall below the traditional threshold of armed conflict. In this environment, there is a broader and “greyer” spectrum of threats with which governments and their military forces must contend, often with significant ambiguity and, policy and legal frameworks that have not kept pace with evolving threats.” (Government of Canada, 2020)	
+		
 		Looking at this from the perspective of cybersecurity in Canada, if a nation or group were to implement hybrid warfare against Canada with cyber warfare or information warfare as a part of it, it will put a large amount of security professionals in an predicament where they are combating the full or at least targeted weight of a cyber-attack from a professional group. If for example this was someone like Russia, Iran, or China, that would be incredibly difficult to combat, especially if they possess the ability to replicate and repeat the 2.54 Tbit/s DDOS attack that Google suffered from in 2017. (Cimpanu, 2020)
 
 
@@ -42,8 +39,11 @@ Hybrid warfare and hybrid threats present a huge threat that has not been dealt 
 ***Russian-Georgian War 2008***
 *Kinetic Military Operations*
 The Russian-Georgian war took place in August of 2008, and was a part of two longer lasting conflicts in the region, the Abkhaz–Georgian conflict and Georgian–Ossetian conflict, which both had started in late 1989 and carry on to this day. Russian troops as part of a joint peace keeping force had been operating in the North and South Ossetian regions in order to keep the peace between Ossetian and Georgian forces. From August 1st to August 6th, 2008, relations between Georgian and Ossetian forces deteriorated rapidly after multiple bombings, and shootings targeting either side. 
+		
 		On August 7th, Georgian military forces began building up on the border. According to Russian peacekeeping forces, Georgian artillery fired artillery into the village of Khetagurovo located in South Ossetia. Later that day according to Georgian forces Ossetian forces destroyed a Georgian armored vehicle using a rocket propelled grenade, killing multiple Georgian troops. Both of these claims are heavily disputed by either side, and a ceasefire was agreed to later in the day.
+		
 		Late August 7th early August 8th, a large contingent of Russian, North Ossetian, and South Ossetian forces and military hardware amassed at the border between South Ossetia and Georgia. Early morning on August 8th, Georgian forces launched an attack into South Ossetia against the South Ossetian forces. Later that morning, Russian and North Ossetian forces intervened, launching an attack on Georgia. Russian forces quickly gained air superiority within South Ossetia. Later in the week, Russia deployed troops from the battle gardened 58th Army, as well as Chechen, and GRU special operations units to South Ossetia to reinforce the peacekeeping troops already there and would later push into Georgia. Between August 8th and August 12th, the conflict between Russia, North Ossetia, South Ossetia, and Georgia raged on with Russia conduct multiple airstrikes far into Georgia, and Russia occupying a large region of Georgia just South of South Ossetia. On August 11th, three divisions of Russian naval troops, two battalions of Russian Marines, and forces from Abkhazia pushed into a region of North East and South of Abkhazia, occupying both regions. At the same time, ships from Russia’s Black Sea Fleet decimated the Georgian navy after Georgian ships entered a Russian declared security zone. 
+		
 		On August 12th, the president of France negotiated a ceasefire and peace deal between all involved parties and the war officially ended. To this day, Russia occupies South Ossetia, Abkhazia, and the regions it took during the war.
 
 *Cyber Operations*
@@ -63,7 +63,7 @@ The current day conflicts between Israel and the countries and groups that surro
 
 *Kinetic Events*
 1. Throughout this conflict, Israeli forces have allegedly conducted dozens on targeted killings on Iranian officials and Iranian backed proxies. Some of these targets being:
-   -	Between 2010 and 2012, the Israeli intelligence agency Mossad allegedly killed four Iranian nuclear scientists and attempted to kill a fifth but failed.
+   - Between 2010 and 2012, the Israeli intelligence agency Mossad allegedly killed four Iranian nuclear scientists and attempted to kill a fifth but failed.
    - In 2012, Mossad allegedly killed the Iranian general in charge of Iran’s ballistic missile system and ballistic missile defense systems.
 2. Between June 25th, 2020 and July 19th, 2020, twelve targets in Iran suffered from mysterious explosions. The attacks have been attributed to Israel, but nothing has been confirmed or admitted to. There seems to be dispute on whether the explosions were caused by Israeli forces on the ground in Iran, or some sort of cyberattack. The attacks were at the following locations:
    - Parchin military facility
