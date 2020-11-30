@@ -1,6 +1,5 @@
 **Disinformation & Propaganda**
- 
-**Research into Modern and Past Disinformation Operations**  
+*Research into Modern and Past Disinformation Operations*  
  
 
 **Index**
