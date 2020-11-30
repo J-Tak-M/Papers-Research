@@ -4,22 +4,27 @@
  
 **Index**
 
- - Introduction	24
- - Breakdown	33
- - Examples	41
- - Russian-Georgian War 2008	42
- - Israeli-Iranian Conflict/s	60
- - Mitigation Methods	95
- - Summary	101
- - References	106
+ - Introduction	18
+ - Breakdown	32
+ - Examples	44
+ - Russian-Georgian War 2008	45
+ - Israeli-Iranian Conflict/s	67
+ - Mitigation Methods	103
+ - Summary	110
+ - References	116
 
  
 
 **Introduction**
+
 A current problem with hybrid warfare and hybrid threats is that nobody can seem to agree upon on specific definition, which present a problem within itself. The European Centre for Excellence for countering Hybrid Threats defines hybrid threats as: 
-		“an action conducted by state or non-state actors, whose goal is to undermine or harm a target by influencing its decision-making at the local, regional, state or institutional level. Such actions are coordinated and synchronized and deliberately target democratic states’ and institutions’ vulnerabilities. Activities can take place, for example, in the political, economic, military, civil or information domains. They are conducted using a wide range of means and designed to remain below the threshold of detection and attribution.”
+
+“an action conducted by state or non-state actors, whose goal is to undermine or harm a target by influencing its decision-making at the local, regional, state or institutional level. Such actions are coordinated and synchronized and deliberately target democratic states’ and institutions’ vulnerabilities. Activities can take place, for example, in the political, economic, military, civil or information domains. They are conducted using a wide range of means and designed to remain below the threshold of detection and attribution.”
+
 Whereas the U.S. Army defines hybrid threats and warfare as:
-		“the diverse and dynamic combination of regular forces, irregular forces, criminal elements, or a combination of these forces and elements all unified to achieve mutually benefiting effects" (Anderson, 2018)
+
+“the diverse and dynamic combination of regular forces, irregular forces, criminal elements, or a combination of these forces and elements all unified to achieve mutually benefiting effects" (Anderson, 2018)
+		
 Then the Chinese military and government do not have a current definition for hybrid warfare to my knowledge. They simply lump it into their strategy for constant unrestricted warfare. Unlike the Western idea of unrestricted warfare where we tend to think of it as salt the earth or glass an entire region with overwhelming military power, the Chinese government looks at unrestricted warfare where they use any facet of a society to combat their enemy. Whether that be diplomatic warfare, information warfare, traditional kinetic warfare, economic warfare, financial warfare, cyber warfare, lawfare, or any number of other facets in a society.
 
 
@@ -38,6 +43,7 @@ Looking at this from the perspective of cybersecurity in Canada, if a nation or 
 
 **Examples**
 ***Russian-Georgian War 2008***
+
 *Kinetic Military Operations*
 The Russian-Georgian war took place in August of 2008, and was a part of two longer lasting conflicts in the region, the Abkhaz–Georgian conflict and Georgian–Ossetian conflict, which both had started in late 1989 and carry on to this day. Russian troops as part of a joint peace keeping force had been operating in the North and South Ossetian regions in order to keep the peace between Ossetian and Georgian forces. From August 1st to August 6th, 2008, relations between Georgian and Ossetian forces deteriorated rapidly after multiple bombings, and shootings targeting either side. 
 		
@@ -59,6 +65,7 @@ Before and during the Georgian-Russian war, Russian military forces, intelligenc
 
 
 ***Israeli-Iranian Conflict/s***
+
 *Introduction*
 The current day conflicts between Israel and the countries and groups that surround it have been going on since modern day Israel’s inception. The most sophisticated of these conflicts are the engagements between Israel, Iran, and Iranian proxies, though the official start of this is debated, it is generally agreed to be between a 1980-1985. There are too many events during this conflict to cover in this assignment, so I will try to cover the more significant or interesting ones.
 
@@ -94,12 +101,14 @@ Though not a traditional war the Israel-Iran conflict is more akin to the US-USS
 
 
 **Mitigation Methods**
+
 Mitigating and counteracting hybrid warfare and hybrid threats is no simple task. Raw military power alone cannot fight off a hybrid threat or spot it in most cases before it happens. A hybrid threat requires a multi-domain solution in order to find, deter, and mitigate the effects of these threats. In March of 2019, the Multinational Capability Development Campaign project released a paper on hybrid warfare and hybrid threats. This was the framework they released on how to counter these threats:
 -	“Detect. This component addresses the problem of detecting hybrid threats or attacks in the first place. It requires updating warning intelligence to monitor ‘known unknowns’ through indicators and warnings and discovering ‘unknown unknowns’ through pattern recognition and anticipation.
 -	Deter. This component addresses the deterrence of hybrid aggressors – or ‘hybrid deterrence’. Deterring hybrid aggressors can be done, but it requires building on traditional deterrence to pursue credible measures through creative horizontal escalation, tailored and communicated to the aggressor, that are balanced between deterrence by denial – including resilience – and punishment.
 -	Respond. This component addresses how to respond to hybrid threats or attacks and offers a framework for doing so. The decision to respond by implementing appropriate actions and measures can be taken at any stage in the hybrid threat cycle, from identifying potential vulnerabilities that require resilience-building activity to punitive measures taken in response to a hybrid attack.” (Multinational Capability Developement Campaign, 2019)
 
 **Summary**
+
 Though hybrid warfare, like most things, has been around since warfare has existed, in recent years it has been renewed to adapt to the worlds ever changing situation. Hybrid warfare is extremely hard for traditional militaries to fight due to its multi-domain approach than usually extends beyond the scope of military within the elements of national power. Starting in 2008, Russia really pioneered the way for modern hybrid warfare and is extremely affective at it but referring to it as new generation warfare rather than hybrid warfare. Due to hybrid warfare’s multi-domain approach to warfare, there is no one way to combat it, especially since it is like the LEGO with warfare. Every country or group is going to build something different and will present their own unique and complex challenges.  
 
 
