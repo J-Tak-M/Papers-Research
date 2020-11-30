@@ -4,19 +4,23 @@
  
 
 **Index**
-- Introduction	18
-- Breakdown	22
-- Examples	32
-- Operation Shocker	33
+- Introduction	20
+- Breakdown	26
+- Examples	40
+- Operation Shocker	44
 - Russian Troll Farms	36
-- Deep Fakes	42
-- Mitigation Methods	47
-- Summary	57
-- References	61
+- Deep Fakes	51
+- Mitigation Methods	58
+- Summary	70
+- References	76
 
+
+ 
  
 **Introduction**
 The Cambridge dictionary describes disinformation as “false information spread in order to deceive people.” (Cambridge Dictionary) The term disinformation come from the Russian word dezinformatsiya which is derived from the Soviet name for the KGB 1st Main Directorate, Department A, which was responsible for the Soviet Union’s external propaganda operations. (Rychlak, 2013) Depending on who you ask and how you are defining warfare, disinformation can fall under different categories of warfare when conducted by a nation state or non-state threat actor. The most common categories used will be: Political warfare, information warfare, intelligence warfare, psychological warfare, and unconventional warfare. Disinformation as we know it today is nothing new, it has taken place throughout history under different names, such as propaganda, psychological operations, information operations, influence operations, and political warfare.
+
+
 
 
 **Breakdown**
@@ -30,9 +34,13 @@ There are many academic theories about cognitive processing, attitude formation 
 -	***Cognitive Dissonance Theory***: This theory argues that a person who holds conflicting cognitions is motivated to reduce or stop the tension between these cognitions by trying to bring them back into alignment with each other. (Mcleod, 2018) In regards to disinformation and information operations, this can be done by an individual only seeking out and looking at information or data that supports their cognitions and disregarding or attacking other information.
 There are a few ways that disinformation can occur and proliferate. With the widespread use and reliance on the internet, it is only making it easier for threat actors to spread their influence and agenda. One-way disinformation can spread is by the selective release of information by organizations, like leaving out parts of an article, or purposely leaving out photos or videos that might add unwanted context. Another way disinformation can spread is through search engine optimization, preparing the fake or partially fake articles or information in such a way that it will appear at the top of Google searches. Another way this can be done is through using bots, fake organizations, or aliases to directly release disinformation to the target audience. A final possible way disinformation can be spread is through hacking targeted individuals or organizations to release select damning evidence on them.
 
+
+
+
 **Examples**
 **Operation Shocker**
 Operation Shocker was a 23-year long operation in the late 1950s conducted by the U.S. Federal Bureau of investigations in an attempt to deceive the Soviet KGB. The operation involved replacing a US Army sergeant that the KGB already had contact with, with a fake defector to release unimportant and fake information on U.S. chemical and biological weapons manufacturing to the Soviets. The defector provided the Soviets with four thousand legitimate documents as well as countless fake documents on a nerve agent that the U.S. was able to create in a stable form in an attempt to waste Soviet resources. Allegedly the Soviets ended up creating the infamous Novichok nerve agent group from these documents.
+
 
 **Russian Troll Farms**
 Troll Farms, also known as Russian Web Brigades or Troll Factories are groups comprised of political commentors, trolls, and bot herders that are allegedly sponsored by the Russian government to spread disinformation or pro-Kremlin propaganda to further the goals of Putin and the Kremlin. Probably the most famous instance of a Russian troll farm is the Internet Research Agency. The Internet Research Agency is a troll farm with links to the Russian oligarch Yevgeny Prigozhin who has extremely close ties with the Russian President Vladimir Putin, Wagner Group a Russian private military company that allegedly works on behalf of the Kremlin, and the Main Directorate of the General Staff of the Armed Forces of the Russian Federation otherwise known as the GRU. The Internet Research Agency has carried out many operations all over the globe, but probably their most infamous operation was during the United States 2016 Presidential Election where they: used thousands of bots to spread disinformation, and support for certain causes; created multiple political groups for varying and opposing political causes; spent hundreds of thousands of dollars on ad placements; and disseminated hundreds of thousands if not millions of pieces of disinformation including memes, videos, articles, and tweets. 
@@ -45,6 +53,8 @@ While not what is expected when people think of disinformation, deep fakes prese
 In the video below you will see a deep fake of former president Barrack Obama. (Buzzfeed, 2018)
  
 
+
+
 **Mitigation Methods**
 Disinformation is interesting in that there are not a ton of ways to combat it, nor are any of them as quick as applying an update to a computer. The only true way to combat disinformation is through educating the masses on how to spot disinformation, even then some information can slip through the cracks and propagate. Some of the best ways to spot disinformation, misinformation, and mal-information are:
 -	Checking the source of the information
@@ -55,8 +65,12 @@ o	Usually real news is covered by more than one news source. If mainstream media
 o	People are much less likely to identify disinformation if it aligns with their own biases. Before posting content, think about why you are doing so. Is because you know it’s true or just because it fits with your ideas?
 
 
+
+
 **Summary**
 Disinformation is the false information spread in order to deceive people and has been used throughout history under different names and under different classifications. There are generally three categories of disinformation, black propaganda, white propaganda, and grey propaganda. There are many ways disinformation can be spread and used by threat actors to influence people’s attitudes, beliefs, or behaviors. The only way you can truly combat the spread and influence of disinformation it to educate people on how to find and tell the difference between disinformation and real information.
+
+
 
 
 **References**
