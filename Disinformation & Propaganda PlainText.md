@@ -4,15 +4,16 @@
  
 
 **Index**
-Introduction	18
-Breakdown	22
-Examples	32
-Operation Shocker	33
-Russian Troll Farms	36
-Deep Fakes	42
-Mitigation Methods	47
-Summary	57
-References	61
+
+- Introduction	18
+- Breakdown	22
+- Examples	32
+- Operation Shocker	33
+- Russian Troll Farms	36
+- Deep Fakes	42
+- Mitigation Methods	47
+- Summary	57
+- References	61
 
  
 **Introduction**
@@ -21,12 +22,12 @@ The Cambridge dictionary describes disinformation as “false information spread
 
 **Breakdown**
 Disinformation operations can generally be broken down in to three categories:
-•	***White Propaganda***: White propaganda comes from a source that is real, and the information can be accurate. What the target audience hears is close to the truth, and it is presented in a way that convinces the audience that the propagator is on your side with the best ideas and political ideology. This type of propaganda is more what we are accustomed to seeing on social media and similar sites.
-•	***Black Propaganda***: Black propaganda is credited to a false source, and it is intended to spread lies, false stories, terror, fear, and mentally break down groups of people. A good example of black propaganda is the spread or attempted spread of beheading videos by the terrorist group Daesh.
-•	***Grey Propaganda***: Grey propaganda is somewhere between white and black propaganda.  The source may or may not be real, and the accuracy of information is uncertain. A real world example of targeted disinformation would be Operation Shocker by the Federal Bureau of Investigations in the fifties targeting the Soviet KGB by getting a person the KGB thought was a traitor to U.S. to feed fake information to the KGB about the U.S.’s chemical and biological weapons programs.
+-	***White Propaganda***: White propaganda comes from a source that is real, and the information can be accurate. What the target audience hears is close to the truth, and it is presented in a way that convinces the audience that the propagator is on your side with the best ideas and political ideology. This type of propaganda is more what we are accustomed to seeing on social media and similar sites.
+-	***Black Propaganda***: Black propaganda is credited to a false source, and it is intended to spread lies, false stories, terror, fear, and mentally break down groups of people. A good example of black propaganda is the spread or attempted spread of beheading videos by the terrorist group Daesh.
+-	***Grey Propaganda***: Grey propaganda is somewhere between white and black propaganda.  The source may or may not be real, and the accuracy of information is uncertain. A real world example of targeted disinformation would be Operation Shocker by the Federal Bureau of Investigations in the fifties targeting the Soviet KGB by getting a person the KGB thought was a traitor to U.S. to feed fake information to the KGB about the U.S.’s chemical and biological weapons programs.
 There are many academic theories about cognitive processing, attitude formation and change, social influence, and persuasion that explain for people’s attitudes, beliefs, or behaviors can be influenced. These theories become key when trying to understand how and why information operations work, below I will list a couple examples of these theories.
-•	***Expectancy-Value Theory***: This model suggests that meaning arises spontaneously and inevitably as people form beliefs about an object. Each belief a person has that associates with an attitude object with a specific attitude, and the person’s overall attitude toward the object is determined by the opinion a person has to the value of the object’s attributes in interaction with the strength of the associations. This method provides a framework to examine resistance to persuasion that focuses on message acceptance, second-order and third-order impacts on attitudes not directly addressed in messages. (Psychology Iresearchnet)
-•	***Cognitive Dissonance Theory***: This theory argues that a person who holds conflicting cognitions is motivated to reduce or stop the tension between these cognitions by trying to bring them back into alignment with each other. (Mcleod, 2018) In regards to disinformation and information operations, this can be done by an individual only seeking out and looking at information or data that supports their cognitions and disregarding or attacking other information.
+-	***Expectancy-Value Theory***: This model suggests that meaning arises spontaneously and inevitably as people form beliefs about an object. Each belief a person has that associates with an attitude object with a specific attitude, and the person’s overall attitude toward the object is determined by the opinion a person has to the value of the object’s attributes in interaction with the strength of the associations. This method provides a framework to examine resistance to persuasion that focuses on message acceptance, second-order and third-order impacts on attitudes not directly addressed in messages. (Psychology Iresearchnet)
+-	***Cognitive Dissonance Theory***: This theory argues that a person who holds conflicting cognitions is motivated to reduce or stop the tension between these cognitions by trying to bring them back into alignment with each other. (Mcleod, 2018) In regards to disinformation and information operations, this can be done by an individual only seeking out and looking at information or data that supports their cognitions and disregarding or attacking other information.
 There are a few ways that disinformation can occur and proliferate. With the widespread use and reliance on the internet, it is only making it easier for threat actors to spread their influence and agenda. One-way disinformation can spread is by the selective release of information by organizations, like leaving out parts of an article, or purposely leaving out photos or videos that might add unwanted context. Another way disinformation can spread is through search engine optimization, preparing the fake or partially fake articles or information in such a way that it will appear at the top of Google searches. Another way this can be done is through using bots, fake organizations, or aliases to directly release disinformation to the target audience. A final possible way disinformation can be spread is through hacking targeted individuals or organizations to release select damning evidence on them.
 
 **Examples**
@@ -46,11 +47,11 @@ In the video below you will see a deep fake of former president Barrack Obama. (
 
 **Mitigation Methods**
 Disinformation is interesting in that there are not a ton of ways to combat it, nor are any of them as quick as applying an update to a computer. The only true way to combat disinformation is through educating the masses on how to spot disinformation, even then some information can slip through the cracks and propagate. Some of the best ways to spot disinformation, misinformation, and mal-information are:
-•	Checking the source of the information
+-	Checking the source of the information
 o	Look at the sources of information, who has published it, who shared it, what are their sources, where is it coming from? On social media such as Twitter, Facebook, or Instagram, check the account’s username, if it has a lot of random letters and numbers, it could be a bot. If the content you are looking is coming from an unverified account posting content hundreds of times a day, that could be a bot.
-•	Check where the story is coming from and who is posting it.
+-	Check where the story is coming from and who is posting it.
 o	Usually real news is covered by more than one news source. If mainstream media are not posting about the story, it could be fake, or it cannot be confirmed. By performing a Google search, you might find that independent fact-checkers have already debunked the story.
-•	Make sure you are not playing into your biases.
+-	Make sure you are not playing into your biases.
 o	People are much less likely to identify disinformation if it aligns with their own biases. Before posting content, think about why you are doing so. Is because you know it’s true or just because it fits with your ideas?
 
 
