@@ -4,7 +4,6 @@
  
 
 **Index**
-
 - Introduction	18
 - Breakdown	22
 - Examples	32
@@ -25,6 +24,7 @@ Disinformation operations can generally be broken down in to three categories:
 -	***White Propaganda***: White propaganda comes from a source that is real, and the information can be accurate. What the target audience hears is close to the truth, and it is presented in a way that convinces the audience that the propagator is on your side with the best ideas and political ideology. This type of propaganda is more what we are accustomed to seeing on social media and similar sites.
 -	***Black Propaganda***: Black propaganda is credited to a false source, and it is intended to spread lies, false stories, terror, fear, and mentally break down groups of people. A good example of black propaganda is the spread or attempted spread of beheading videos by the terrorist group Daesh.
 -	***Grey Propaganda***: Grey propaganda is somewhere between white and black propaganda.  The source may or may not be real, and the accuracy of information is uncertain. A real world example of targeted disinformation would be Operation Shocker by the Federal Bureau of Investigations in the fifties targeting the Soviet KGB by getting a person the KGB thought was a traitor to U.S. to feed fake information to the KGB about the U.S.’s chemical and biological weapons programs.
+
 There are many academic theories about cognitive processing, attitude formation and change, social influence, and persuasion that explain for people’s attitudes, beliefs, or behaviors can be influenced. These theories become key when trying to understand how and why information operations work, below I will list a couple examples of these theories.
 -	***Expectancy-Value Theory***: This model suggests that meaning arises spontaneously and inevitably as people form beliefs about an object. Each belief a person has that associates with an attitude object with a specific attitude, and the person’s overall attitude toward the object is determined by the opinion a person has to the value of the object’s attributes in interaction with the strength of the associations. This method provides a framework to examine resistance to persuasion that focuses on message acceptance, second-order and third-order impacts on attitudes not directly addressed in messages. (Psychology Iresearchnet)
 -	***Cognitive Dissonance Theory***: This theory argues that a person who holds conflicting cognitions is motivated to reduce or stop the tension between these cognitions by trying to bring them back into alignment with each other. (Mcleod, 2018) In regards to disinformation and information operations, this can be done by an individual only seeking out and looking at information or data that supports their cognitions and disregarding or attacking other information.
@@ -60,33 +60,33 @@ Disinformation is the false information spread in order to deceive people and ha
 
 
 **References**
-AI, W. F. (2019, June 8). Imagine Sung by Trump, Putin & Other World Leaders (John Lennon Song). Retrieved from Youtube: https://youtu.be/OmB7fmi8JwY
-Bagge, D. P. (2019). Unmasking Maskirovka Russia's Cyber Influence Operations. Defense Press.
-Buzzfeed, M. P. (2018, April 17). You Won’t Believe What Obama Says In This Video! 😉. Retrieved from Youtube: https://www.youtube.com/watch?v=cQ54GDm1eL0&feature=emb_logo&ab_channel=BuzzFeedVideo
-Cambridge Dictionary. (n.d.). Disinformation. Retrieved from Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/disinformation
-Canadian Security Intelligence Service. (2017, Feb). WHO SAID WHAT? The Security Challenges of Modern Disinformation. Retrieved from Government of Canada: https://www.canada.ca/content/dam/csis-scrs/documents/publications/disinformation_post-report_eng.pdf
-Conley, H. A. (2016, October 6). Kremlin Playbook. Retrieved from CSIS.org: https://www.csis.org/analysis/kremlin-playbook
-Cummins, D. (2019, May 6). Timesuck | The Brutal KGB and Russia's Long History of Secret Police. Bad Magic Productions.
-Cummins, S. T. (2019). The Ultimate Art of War A Step-by-Step Illustrated Guide To Sun Tzu's Teachings. Watkins Media Limited.
-Dorogan, A. S. (2010). The New Nobility The Restoration of Russia's Security State and the Enduring Legacy of the KGB. PublicAffairs.
-Fridman, O. (2018). Russian Hybrid Warfare: Resurgence and Politicization. Oxford University Press.
-Gangware, C. N. (2019, March). Weapons of Mass Distraction: Foreign Disinformation in the Digital Age. Retrieved from U.S. Department of State: https://www.state.gov/wp-content/uploads/2019/05/Weapons-of-Mass-Distraction-Foreign-State-Sponsored-Disinformation-in-the-Digital-Age.pdf
-Hill, J. (2015, June 2). The Agency. Retrieved from NY Times: https://www.nytimes.com/2015/06/07/magazine/the-agency.html?_r=0
-Krogerus, H. G. (2017, December 2). fake-news-botnets-how-russia-weaponised-the-web-cyber-attack-estonia. Retrieved from theguardian.com: https://www.theguardian.com/technology/2017/dec/02/fake-news-botnets-how-russia-weaponised-the-web-cyber-attack-estonia
-Mcleod, S. (2018, Feb 5). Cognitive Dissonance. Retrieved from Simply Psychology: https://www.simplypsychology.org/cognitive-dissonance.html
-McReynolds, J. (2015). China's Evolving Military Strategy. Jamestown Foundation.
-Mitrohhin, C. A. (2000). The Sword and the Shield: The Mitrokhin Archive and the Secret History of the KGB. Basic Books.
-Mitrokhin, C. A. (2018). The Mitrokhin Archive: The KGB in the World. Penguin Press.
-New York Times. (2018, Nov 25). Operation InfeKtion: How Russia Perfected the Art of War. Retrieved from New York Times / Youtube: https://www.youtube.com/watch?v=tR_6dibpDfo&ab_channel=TheNewYorkTimes
-Psychology Iresearchnet. (n.d.). Expectancy-Value Theory. Retrieved from Iresearchnet: http://psychology.iresearchnet.com/sports-psychology/sport-motivation/expectancy-value-theory/
-Purcell, L. M. (n.d.). EXERCISE/EXERCICE New Horizons Core Requirements for the Successful Development of a Psychological Operations. Retrieved from Canadian Forces College: https://www.cfc.forces.gc.ca/259/290/293/287/purcell.pdf
-Report On The Investigation Into Russian Interference In The 2016 Presidential Election. (2019, March). Retrieved from justice.gov: https://www.justice.gov/storage/report.pdf
-Rhysider, J. (2020, May 12). Ep 65: PSYOPS. Darknet Diaries. Darknet Diaries.
-Rid, T. (2020). Active Measures: The Secret History of Disinformation and Political Warfare. Farrar, Straus and Giroux; Illustrated edition.
-Rychlak, I. M. (2013). Disinformation: Former Spy Chief Reveals Secret Strategies for Undermining Freedom, Attacking Religion, and Promoting Terrorism. WND Books.
-Sawyer, R. D. (2007). The Tao of Deception: Unorthodox Warfare in Historic and Modern China . Basic Books.
-Stengel, R. (2019). Information Wars: How We Lost the Global Battle Against Disinformation and What We Can Do About It. Atlantic Monthly Press.
-White, S. P. (2018, March 20). understanding-cyberwarfare-lessons-russia-georgia-war. Retrieved from mwi.usma.edu: https://mwi.usma.edu/understanding-cyberwarfare-lessons-russia-georgia-war/
-Xiangsui, Q. L. (2017). Unrestricted Warfare. Shadow Lawn Press.
+- AI, W. F. (2019, June 8). Imagine Sung by Trump, Putin & Other World Leaders (John Lennon Song). Retrieved from Youtube: https://youtu.be/OmB7fmi8JwY
+- Bagge, D. P. (2019). Unmasking Maskirovka Russia's Cyber Influence Operations. Defense Press.
+- Buzzfeed, M. P. (2018, April 17). You Won’t Believe What Obama Says In This Video! 😉. Retrieved from Youtube: https://www.youtube.com/watch?v=cQ54GDm1eL0&feature=emb_logo&ab_channel=BuzzFeedVideo
+- Cambridge Dictionary. (n.d.). Disinformation. Retrieved from Cambridge Dictionary: https://dictionary.cambridge.org/dictionary/english/disinformation
+- Canadian Security Intelligence Service. (2017, Feb). WHO SAID WHAT? The Security Challenges of Modern Disinformation. Retrieved from Government of Canada: https://www.canada.ca/content/dam/csis-scrs/documents/publications/disinformation_post-report_eng.pdf
+- Conley, H. A. (2016, October 6). Kremlin Playbook. Retrieved from CSIS.org: https://www.csis.org/analysis/kremlin-playbook
+- Cummins, D. (2019, May 6). Timesuck | The Brutal KGB and Russia's Long History of Secret Police. Bad Magic Productions.
+- Cummins, S. T. (2019). The Ultimate Art of War A Step-by-Step Illustrated Guide To Sun Tzu's Teachings. Watkins Media Limited.
+- Dorogan, A. S. (2010). The New Nobility The Restoration of Russia's Security State and the Enduring Legacy of the KGB. PublicAffairs.
+- Fridman, O. (2018). Russian Hybrid Warfare: Resurgence and Politicization. Oxford University Press.
+- Gangware, C. N. (2019, March). Weapons of Mass Distraction: Foreign Disinformation in the Digital Age. Retrieved from U.S. Department of State: https://www.state.gov/wp-content/uploads/2019/05/Weapons-of-Mass-Distraction-Foreign-State-Sponsored-Disinformation-in-the-Digital-Age.pdf
+- Hill, J. (2015, June 2). The Agency. Retrieved from NY Times: https://www.nytimes.com/2015/06/07/magazine/the-agency.html?_r=0
+- Krogerus, H. G. (2017, December 2). fake-news-botnets-how-russia-weaponised-the-web-cyber-attack-estonia. Retrieved from theguardian.com: https://www.theguardian.com/technology/2017/dec/02/fake-news-botnets-how-russia-weaponised-the-web-cyber-attack-estonia
+- Mcleod, S. (2018, Feb 5). Cognitive Dissonance. Retrieved from Simply Psychology: https://www.simplypsychology.org/cognitive-dissonance.html
+- McReynolds, J. (2015). China's Evolving Military Strategy. Jamestown Foundation.
+- Mitrohhin, C. A. (2000). The Sword and the Shield: The Mitrokhin Archive and the Secret History of the KGB. Basic Books.
+- Mitrokhin, C. A. (2018). The Mitrokhin Archive: The KGB in the World. Penguin Press.
+- New York Times. (2018, Nov 25). Operation InfeKtion: How Russia Perfected the Art of War. Retrieved from New York Times / Youtube: https://www.youtube.com/watch?v=tR_6dibpDfo&ab_channel=TheNewYorkTimes
+- Psychology Iresearchnet. (n.d.). Expectancy-Value Theory. Retrieved from Iresearchnet: http://psychology.iresearchnet.com/sports-psychology/sport-motivation/expectancy-value-theory/
+- Purcell, L. M. (n.d.). EXERCISE/EXERCICE New Horizons Core Requirements for the Successful Development of a Psychological Operations. Retrieved from Canadian Forces College: https://www.cfc.forces.gc.ca/259/290/293/287/purcell.pdf
+- Report On The Investigation Into Russian Interference In The 2016 Presidential Election. (2019, March). Retrieved from justice.gov: https://www.justice.gov/storage/report.pdf
+- Rhysider, J. (2020, May 12). Ep 65: PSYOPS. Darknet Diaries. Darknet Diaries.
+- Rid, T. (2020). Active Measures: The Secret History of Disinformation and Political Warfare. Farrar, Straus and Giroux; Illustrated edition.
+- Rychlak, I. M. (2013). Disinformation: Former Spy Chief Reveals Secret Strategies for Undermining Freedom, Attacking Religion, and Promoting Terrorism. WND Books.
+- Sawyer, R. D. (2007). The Tao of Deception: Unorthodox Warfare in Historic and Modern China . Basic Books.
+- Stengel, R. (2019). Information Wars: How We Lost the Global Battle Against Disinformation and What We Can Do About It. Atlantic Monthly Press.
+- White, S. P. (2018, March 20). understanding-cyberwarfare-lessons-russia-georgia-war. Retrieved from mwi.usma.edu: https://mwi.usma.edu/understanding-cyberwarfare-lessons-russia-georgia-war/
+- Xiangsui, Q. L. (2017). Unrestricted Warfare. Shadow Lawn Press.
 
 
