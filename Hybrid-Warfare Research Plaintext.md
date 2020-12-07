@@ -86,7 +86,7 @@ The current day conflicts between Israel and the countries and groups that surro
    - Mashad industrial complex
    - Ahvaz oil pipeline
    - Isfahan power plant
-3. During the 2006 Lebanon-Israel war, Iranian Revolutionary guard forces fought and trained alongside Hezbollah forces against Israel. Note that Hezbollah is allegedly funded and supported by Iran. One fact to support this claim is when the Iranian general, Kassem Soleimani was killed by a United States drone strike in early 2020, one of the other people killed in the strike was Abu Mahdi al-Muhandis, who is the former Secretary General of Hezbollah, and the flight they were both coming off of was coming from Lebanon. Also, during the Lebanon-Israel was, both Soleimani and al-Muhandis were on the ground in Lebanon.
+3. During the 2006 Lebanon-Israel war, Iranian Revolutionary guard forces fought and trained alongside Hezbollah forces against Israel. Note that Hezbollah is allegedly funded and supported by Iran. One fact to support this claim is when the Iranian general, Kassem Soleimani was killed by a United States drone strike in early 2020, one of the other people killed in the strike was Abu Mahdi al-Muhandis, who is the former Secretary General of Hezbollah, and the flight they were both coming off of was coming from Lebanon. Also, during the Lebanon-Israel war, both Soleimani and al-Muhandis were on the ground in Lebanon.
 4. On November 18, 2020, Israel conducted strikes on Iranian military facilities located in Syria after Israel found explosives in the Israeli occupied Golon Heights region that were believed to be from Iran. (The BBC, 2020) (The only reason this is here is because it appeared at the time of writing this)
 
 *Non-Kinetic Events*
