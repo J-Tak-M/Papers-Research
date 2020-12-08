@@ -4,14 +4,14 @@
  
 ### Index
 
- - [Introduction](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#introduction)
- - [Breakdown](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#breakdown)
- - [Examples](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#examples)
- - [Russian-Georgian War](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#russian-georgian-war)
- - [Israeli-Iranian Conflict/s](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#israeli-iranian-conflicts)
- - [Mitigation Methods](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#mitigation-methods)
- - [Summary](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#summary)
- - [References](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#references)
+ - [Introduction](https://github.com/J-Tak-M/Papers-Research/blob/main/Hybrid-Warfare%20Research%20Plaintext.md#introduction)
+ - [Breakdown](https://github.com/J-Tak-M/Papers-Research/blob/main/Hybrid-Warfare%20Research%20Plaintext.md#breakdown)
+ - [Examples](https://github.com/J-Tak-M/Papers-Research/blob/main/Hybrid-Warfare%20Research%20Plaintext.md#examples)
+ - [Russian-Georgian War](https://github.com/J-Tak-M/Papers-Research/blob/main/Hybrid-Warfare%20Research%20Plaintext.md#russian-georgian-war)
+ - [Israeli-Iranian Conflict/s](https://github.com/J-Tak-M/Papers-Research/blob/main/Hybrid-Warfare%20Research%20Plaintext.md#israeli-iranian-conflicts)
+ - [Mitigation Methods](https://github.com/J-Tak-M/Papers-Research/blob/main/Hybrid-Warfare%20Research%20Plaintext.md#mitigation-methods)
+ - [Summary](https://github.com/J-Tak-M/Papers-Research/blob/main/Hybrid-Warfare%20Research%20Plaintext.md#summary)
+ - [References](https://github.com/J-Tak-M/Papers-Research/blob/main/Hybrid-Warfare%20Research%20Plaintext.md#references)
 
  
 
