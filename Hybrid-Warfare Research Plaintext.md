@@ -2,20 +2,21 @@
  
  *Research into Hybrid Warfare*	  
  
-**Index**
+### Index
 
- - Introduction	18
- - Breakdown	32
- - Examples	44
- - Russian-Georgian War 2008	45
- - Israeli-Iranian Conflict/s	67
- - Mitigation Methods	103
- - Summary	110
- - References	116
+ - [Introduction](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#introduction)
+ - [Breakdown](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#breakdown)
+ - [Examples](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#examples)
+ - [Russian-Georgian War](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#work--volunteer-experience)
+ - [Israeli-Iranian Conflict/s](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#work--volunteer-experience)
+ - [Mitigation Methods](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#mitigation-methods)
+ - [Summary](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#summary)
+ - [References](https://github.com/J-Tak-M/Josh-M.github.io/blob/main/README.md#references)
 
  
 
-**Introduction**
+### Introduction
+______________________________________________________________________________________________________________________________
 
 A current problem with hybrid warfare and hybrid threats is that nobody can seem to agree upon on specific definition, which present a problem within itself. The European Centre for Excellence for countering Hybrid Threats defines hybrid threats as: 
 
@@ -29,7 +30,8 @@ Then the Chinese military and government do not have a current definition for hy
 
 
 
-**Breakdown**
+### Breakdown
+______________________________________________________________________________________________________________________________
 
 Hybrid warfare and hybrid threats present a huge threat that has not been dealt with by very many nations and is extremely hard to combat. Many factors in hybrid warfare present the same problems as many of forms of warfare outside of traditional kinetic warfare, a standard army cannot effectively combat or many times even see things like economic warfare or lawfare happening right in front of their eyes, mainly because that is out of the scope of their responsibilities. Economic warfare for example cannot be fought off with overwhelming military force, if you inflate or deflate the U.S. dollar by a certain percentage, you might not be able to effect the U.S. in any meaningful way, but you could crash the economy of a small country such as Guatemala, and this would be extremely hard to see and combat as or before it happens. Another large problem presented by this type of warfare is attribution, if you cannot figure out who your enemy is, it makes it a lot harder to fight them. For example, in October of 2019, articles started appearing that hard titles such as, “Russian Hacker Group Disguises Self as Iranian Hacker Group,” it turns out that the Russian attributed hacker group known as Turla, hacked an Iranian-sponsored hacker group known as OilRig. Turla then used OilRig’s servers, tools, and behavior to masquerade as them while carrying out various cyber operations. (Gatlan, 2019) 
 		
@@ -41,8 +43,10 @@ Looking at this from the perspective of cybersecurity in Canada, if a nation or 
 
 
 
-**Examples**
-***Russian-Georgian War 2008***
+### Examples
+______________________________________________________________________________________________________________________________
+#### Russian-Georgian War 2008
+______________________________________________________________________________________________________________________________
 
 *Kinetic Military Operations*
 The Russian-Georgian war took place in August of 2008, and was a part of two longer lasting conflicts in the region, the Abkhaz–Georgian conflict and Georgian–Ossetian conflict, which both had started in late 1989 and carry on to this day. Russian troops as part of a joint peace keeping force had been operating in the North and South Ossetian regions in order to keep the peace between Ossetian and Georgian forces. From August 1st to August 6th, 2008, relations between Georgian and Ossetian forces deteriorated rapidly after multiple bombings, and shootings targeting either side. 
@@ -64,8 +68,8 @@ Before and during the Georgian-Russian war, Russian military forces, intelligenc
 
 
 
-***Israeli-Iranian Conflict/s***
-
+#### Israeli-Iranian Conflict/s
+______________________________________________________________________________________________________________________________
 *Introduction*
 The current day conflicts between Israel and the countries and groups that surround it have been going on since modern day Israel’s inception. The most sophisticated of these conflicts are the engagements between Israel, Iran, and Iranian proxies, though the official start of this is debated, it is generally agreed to be between a 1980-1985. There are too many events during this conflict to cover in this assignment, so I will try to cover the more significant or interesting ones.
 
@@ -100,20 +104,21 @@ Though not a traditional war the Israel-Iran conflict is more akin to the US-USS
 
 
 
-**Mitigation Methods**
-
+### Mitigation Methods
+______________________________________________________________________________________________________________________________
 Mitigating and counteracting hybrid warfare and hybrid threats is no simple task. Raw military power alone cannot fight off a hybrid threat or spot it in most cases before it happens. A hybrid threat requires a multi-domain solution in order to find, deter, and mitigate the effects of these threats. In March of 2019, the Multinational Capability Development Campaign project released a paper on hybrid warfare and hybrid threats. This was the framework they released on how to counter these threats:
 -	“Detect. This component addresses the problem of detecting hybrid threats or attacks in the first place. It requires updating warning intelligence to monitor ‘known unknowns’ through indicators and warnings and discovering ‘unknown unknowns’ through pattern recognition and anticipation.
 -	Deter. This component addresses the deterrence of hybrid aggressors – or ‘hybrid deterrence’. Deterring hybrid aggressors can be done, but it requires building on traditional deterrence to pursue credible measures through creative horizontal escalation, tailored and communicated to the aggressor, that are balanced between deterrence by denial – including resilience – and punishment.
 -	Respond. This component addresses how to respond to hybrid threats or attacks and offers a framework for doing so. The decision to respond by implementing appropriate actions and measures can be taken at any stage in the hybrid threat cycle, from identifying potential vulnerabilities that require resilience-building activity to punitive measures taken in response to a hybrid attack.” (Multinational Capability Developement Campaign, 2019)
 
-**Summary**
-
+### Summary 
+______________________________________________________________________________________________________________________________
 Though hybrid warfare, like most things, has been around since warfare has existed, in recent years it has been renewed to adapt to the worlds ever changing situation. Hybrid warfare is extremely hard for traditional militaries to fight due to its multi-domain approach than usually extends beyond the scope of military within the elements of national power. Starting in 2008, Russia really pioneered the way for modern hybrid warfare and is extremely affective at it but referring to it as new generation warfare rather than hybrid warfare. Due to hybrid warfare’s multi-domain approach to warfare, there is no one way to combat it, especially since it is like the LEGO with warfare. Every country or group is going to build something different and will present their own unique and complex challenges.  
 
 
 
-**References**
+### References
+______________________________________________________________________________________________________________________________
 - Anderson, G. (2018, 02 12). COUNTER-HYBRID WARFARE: WINNING IN THE GRAY ZONE. Retrieved from Smallwarsjournal.com: https://smallwarsjournal.com/jrnl/art/counter-hybrid-warfare-winning-gray-zone
 - Bachmann, A. D.-D. (2019, June 17). What is hybrid warfare and what is meant by the grey zone. Retrieved from https://theconversation.com/explainer-what-is-hybrid-warfare-and-what-is-meant-by-the-grey-zone-118841
 - Bagge, D. P. (2019). Unmasking Maskirovka Russia's Cyber Influence Operations. Defense Press.
