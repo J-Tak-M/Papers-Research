@@ -56,9 +56,8 @@ Another fairly interesting operation conducted by the Internet Research Agency w
 #### Deep Fakes
 _________________________________________________________________________________________________________________________________
 While not what is expected when people think of disinformation, deep fakes present a very real threat. Deep fakes can be extremely useful tools to spread disinformation in a way that could be harder for a lot of people to differentiate from reality. With the right vocal and facial patterns combined, similar hand, eye, and body language, it becomes extremely hard for people to differentiate between reality and a manufactured video. Once you add those factors with audience targeting you could manufacture whatever disinformation you want to spread whether that be for a specific cause, to gain support for a person, or make people dislike that person. I have included a video below, demonstrating the dangers of deep fake videos.
-In the video below you will see a deep fake of former president Barrack Obama. (Buzzfeed, 2018)
 
-https://youtu.be/cQ54GDm1eL0 
+In this video you will see a deep fake of former president Barrack Obama: https://youtu.be/cQ54GDm1eL0 (Buzzfeed, 2018)
 
 
 
