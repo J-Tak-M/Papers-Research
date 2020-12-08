@@ -1,29 +1,31 @@
-**Disinformation & Propaganda**
+# Disinformation & Propaganda
 
 *Research into Disinformation Operations and Methodology*  
  
 
-**Index**
-- Introduction	20
-- Breakdown	26
-- Examples	40
-- Operation Shocker	44
-- Russian Troll Farms	36
-- Deep Fakes	51
-- Mitigation Methods	58
-- Summary	70
-- References	76
+### Index
+- [Introduction](https://github.com/J-Tak-M/Papers-Research/blob/main/Disinformation%20%26%20Propaganda%20PlainText.md#introduction)
+- [Breakdown](https://github.com/J-Tak-M/Papers-Research/blob/main/Disinformation%20%26%20Propaganda%20PlainText.md#breakdown)
+- [Examples](https://github.com/J-Tak-M/Papers-Research/blob/main/Disinformation%20%26%20Propaganda%20PlainText.md#examples)
+- [Operation Shocker](https://github.com/J-Tak-M/Papers-Research/blob/main/Disinformation%20%26%20Propaganda%20PlainText.md#operation-shocker)
+- [Russian Troll Farms](https://github.com/J-Tak-M/Papers-Research/blob/main/Disinformation%20%26%20Propaganda%20PlainText.md#russian-troll-farms)
+- [Deep Fakes](https://github.com/J-Tak-M/Papers-Research/blob/main/Disinformation%20%26%20Propaganda%20PlainText.md#deep-fakes)
+- [Mitigation Methods](https://github.com/J-Tak-M/Papers-Research/blob/main/Disinformation%20%26%20Propaganda%20PlainText.md#mitigation-methods)
+- [Summary](https://github.com/J-Tak-M/Papers-Research/blob/main/Disinformation%20%26%20Propaganda%20PlainText.md#summary)
+- [References](https://github.com/J-Tak-M/Papers-Research/blob/main/Disinformation%20%26%20Propaganda%20PlainText.md#references)
 
 
  
  
-**Introduction**
+### Introduction
+_________________________________________________________________________________________________________________________________
 The Cambridge dictionary describes disinformation as “false information spread in order to deceive people.” (Cambridge Dictionary) The term disinformation come from the Russian word dezinformatsiya which is derived from the Soviet name for the KGB 1st Main Directorate, Department A, which was responsible for the Soviet Union’s external propaganda operations. (Rychlak, 2013) Depending on who you ask and how you are defining warfare, disinformation can fall under different categories of warfare when conducted by a nation state or non-state threat actor. The most common categories used will be: Political warfare, information warfare, intelligence warfare, psychological warfare, and unconventional warfare. Disinformation as we know it today is nothing new, it has taken place throughout history under different names, such as propaganda, psychological operations, information operations, influence operations, and political warfare.
 
 
 
 
-**Breakdown**
+### Breakdown
+_________________________________________________________________________________________________________________________________
 Disinformation operations can generally be broken down in to three categories:
 -	***White Propaganda***: White propaganda comes from a source that is real, and the information can be accurate. What the target audience hears is close to the truth, and it is presented in a way that convinces the audience that the propagator is on your side with the best ideas and political ideology. This type of propaganda is more what we are accustomed to seeing on social media and similar sites.
 -	***Black Propaganda***: Black propaganda is credited to a false source, and it is intended to spread lies, false stories, terror, fear, and mentally break down groups of people. A good example of black propaganda is the spread or attempted spread of beheading videos by the terrorist group Daesh.
@@ -37,25 +39,31 @@ There are a few ways that disinformation can occur and proliferate. With the wid
 
 
 
-**Examples**
-**Operation Shocker**
+### Examples
+_________________________________________________________________________________________________________________________________
+#### Operation Shocker
+_________________________________________________________________________________________________________________________________
 Operation Shocker was a 23-year long operation in the late 1950s conducted by the U.S. Federal Bureau of investigations in an attempt to deceive the Soviet KGB. The operation involved replacing a US Army sergeant that the KGB already had contact with, with a fake defector to release unimportant and fake information on U.S. chemical and biological weapons manufacturing to the Soviets. The defector provided the Soviets with four thousand legitimate documents as well as countless fake documents on a nerve agent that the U.S. was able to create in a stable form in an attempt to waste Soviet resources. Allegedly the Soviets ended up creating the infamous Novichok nerve agent group from these documents.
 
 
-**Russian Troll Farms**
+#### Russian Troll Farms
+_________________________________________________________________________________________________________________________________
 Troll Farms, also known as Russian Web Brigades or Troll Factories are groups comprised of political commentors, trolls, and bot herders that are allegedly sponsored by the Russian government to spread disinformation or pro-Kremlin propaganda to further the goals of Putin and the Kremlin. Probably the most famous instance of a Russian troll farm is the Internet Research Agency. The Internet Research Agency is a troll farm with links to the Russian oligarch Yevgeny Prigozhin who has extremely close ties with the Russian President Vladimir Putin, Wagner Group a Russian private military company that allegedly works on behalf of the Kremlin, and the Main Directorate of the General Staff of the Armed Forces of the Russian Federation otherwise known as the GRU. The Internet Research Agency has carried out many operations all over the globe, but probably their most infamous operation was during the United States 2016 Presidential Election where they: used thousands of bots to spread disinformation, and support for certain causes; created multiple political groups for varying and opposing political causes; spent hundreds of thousands of dollars on ad placements; and disseminated hundreds of thousands if not millions of pieces of disinformation including memes, videos, articles, and tweets. 
 
 Another fairly interesting operation conducted by the Internet Research Agency was a Columbian Chemicals plant explosion hoax. This event took place in September of 2014. Text, Twitter, and Facebook messages were sent to individuals living in Centerville, St. Mary Parish, Louisiana saying that there had been an explosion at the Columbian Chemicals plant and that ISIS had taken responsibility. At the same time a video was making rounds on YouTube claiming to be of the explosion, a screenshot of a news article claiming to be from CNN and Times-Picayune's website, and a Wikipedia article had been made. They also made clones for the Louisiana TV station and newspaper websites to further spread disinformation on the explosion. (Hill, 2015) Once authorities confirmed it was indeed a hoax, they began disseminating accurate information to residents. This entire incident was created and run by the Internet Research Agency.
 
 
-**Deep Fakes**
+#### Deep Fakes
+_________________________________________________________________________________________________________________________________
 While not what is expected when people think of disinformation, deep fakes present a very real threat. Deep fakes can be extremely useful tools to spread disinformation in a way that could be harder for a lot of people to differentiate from reality. With the right vocal and facial patterns combined, similar hand, eye, and body language, it becomes extremely hard for people to differentiate between reality and a manufactured video. Once you add those factors with audience targeting you could manufacture whatever disinformation you want to spread whether that be for a specific cause, to gain support for a person, or make people dislike that person. I have included a video below, demonstrating the dangers of deep fake videos.
 In the video below you will see a deep fake of former president Barrack Obama. (Buzzfeed, 2018)
- 
+
+https://youtu.be/cQ54GDm1eL0 
 
 
 
-**Mitigation Methods**
+### Mitigation Methods
+_________________________________________________________________________________________________________________________________
 Disinformation is interesting in that there are not a ton of ways to combat it, nor are any of them as quick as applying an update to a computer. The only true way to combat disinformation is through educating the masses on how to spot disinformation, even then some information can slip through the cracks and propagate. Some of the best ways to spot disinformation, misinformation, and mal-information are:
  1. Checking the source of the information.
     -	Look at the sources of information, who has published it, who shared it, what are their sources, where is it coming from? On social media such as Twitter, Facebook, or Instagram, check the account’s username, if it has a lot of random letters and numbers, it could be a bot. If the content you are looking is coming from an unverified account posting content hundreds of times a day, that could be a bot.
@@ -67,13 +75,15 @@ Disinformation is interesting in that there are not a ton of ways to combat it, 
 
 
 
-**Summary**
+### Summary
+_________________________________________________________________________________________________________________________________
 Disinformation is the false information spread in order to deceive people and has been used throughout history under different names and under different classifications. There are generally three categories of disinformation, black propaganda, white propaganda, and grey propaganda. There are many ways disinformation can be spread and used by threat actors to influence people’s attitudes, beliefs, or behaviors. The only way you can truly combat the spread and influence of disinformation it to educate people on how to find and tell the difference between disinformation and real information.
 
 
 
 
-**References**
+### References
+_________________________________________________________________________________________________________________________________
 - AI, W. F. (2019, June 8). Imagine Sung by Trump, Putin & Other World Leaders (John Lennon Song). Retrieved from Youtube: https://youtu.be/OmB7fmi8JwY
 - Bagge, D. P. (2019). Unmasking Maskirovka Russia's Cyber Influence Operations. Defense Press.
 - Buzzfeed, M. P. (2018, April 17). You Won’t Believe What Obama Says In This Video! 😉. Retrieved from Youtube: https://www.youtube.com/watch?v=cQ54GDm1eL0&feature=emb_logo&ab_channel=BuzzFeedVideo
