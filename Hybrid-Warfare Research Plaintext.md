@@ -49,6 +49,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________
 
 *Kinetic Military Operations*
+
 The Russian-Georgian war took place in August of 2008, and was a part of two longer lasting conflicts in the region, the Abkhaz–Georgian conflict and Georgian–Ossetian conflict, which both had started in late 1989 and carry on to this day. Russian troops as part of a joint peace keeping force had been operating in the North and South Ossetian regions in order to keep the peace between Ossetian and Georgian forces. From August 1st to August 6th, 2008, relations between Georgian and Ossetian forces deteriorated rapidly after multiple bombings, and shootings targeting either side. 
 		
 On August 7th, Georgian military forces began building up on the border. According to Russian peacekeeping forces, Georgian artillery fired artillery into the village of Khetagurovo located in South Ossetia. Later that day according to Georgian forces Ossetian forces destroyed a Georgian armored vehicle using a rocket propelled grenade, killing multiple Georgian troops. Both of these claims are heavily disputed by either side, and a ceasefire was agreed to later in the day.
@@ -64,6 +65,7 @@ On August 12th, the president of France negotiated a ceasefire and peace deal be
 -	Between August 9th and August 14th, multiple other attacks including DDOS attacks, defacements, and editing of news sites had taken place.
 
 *Analysis*
+
 Before and during the Georgian-Russian war, Russian military forces, intelligence agencies, and criminal organization attributed to the Russian government launched a coordinated cyber, information and military operation against Georgia. Russia effectively combined cyber, information and traditional warfare in the first large scale example of hybrid warfare. Proving to Putin and other nations that hybrid warfare is/was the future of warfare and that Russia was currently leading in the field. An interesting note is that Russia does not refer to this type of warfare as hybrid warfare, they call it new generation warfare and define it more closely to the Chinese definition of unrestricted warfare which can use any and all facets of a society or nation to conduct war rather than the Western definition for hybrid warfare.
 
 
@@ -71,6 +73,7 @@ Before and during the Georgian-Russian war, Russian military forces, intelligenc
 #### Israeli-Iranian Conflict/s
 ______________________________________________________________________________________________________________________________
 *Introduction*
+
 The current day conflicts between Israel and the countries and groups that surround it have been going on since modern day Israel’s inception. The most sophisticated of these conflicts are the engagements between Israel, Iran, and Iranian proxies, though the official start of this is debated, it is generally agreed to be between a 1980-1985. There are too many events during this conflict to cover in this assignment, so I will try to cover the more significant or interesting ones.
 
 *Kinetic Events*
@@ -100,6 +103,7 @@ The current day conflicts between Israel and the countries and groups that surro
 -	Static Kitten attempted ransomware attack against Israeli organizations (Times of Israel, 2020)
 
 *Analysis*
+
 Though not a traditional war the Israel-Iran conflict is more akin to the US-USSR Cold War. Despite not being a hot war, or single event, both nations are using a complex mixture of traditional warfare, economic warfare, proxy groups, cyber warfare, information warfare, and lawfare to wage a long term hybrid war against each other. 
 
 
