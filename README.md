@@ -3,5 +3,5 @@ This repository contains papers and research I have done on various subjects. Th
 
 **Current List**
 
-- Disinformation & Propaganda
-- Hybrid Warfare Research
+- [Disinformation & Propaganda](https://github.com/J-Tak-M/Papers-Research/blob/main/Disinformation%20%26%20Propaganda%20PlainText.md)
+- [Hybrid Warfare Research](https://github.com/J-Tak-M/Papers-Research/blob/main/Hybrid-Warfare%20Research%20Plaintext.md)
